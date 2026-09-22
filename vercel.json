@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/payment",
+      "destination": "/payment/payment.html",
+      "permanent": false
+    },
+    {
+      "source": "/payment/",
+      "destination": "/payment/payment.html",
+      "permanent": false
+    }
+  ]
+}
